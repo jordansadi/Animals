@@ -32,7 +32,7 @@ public class FileInput {
     }
 
     /**
-     * This method attemps to read the entire file, one line at a time
+     * This method attempts to read the entire file, one line at a time
      * @throws Exception if the file cannot be read
      */
     public void fileRead() {
