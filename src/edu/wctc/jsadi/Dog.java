@@ -30,7 +30,7 @@ public class Dog extends Pet implements Talkable {
 
     /**
      * This method is inherited from the Talkable interface
-     * @return string indicating what the dog says
+     * @return String indicating what the dog says
      */
     @Override
     public String talk() {
@@ -39,7 +39,7 @@ public class Dog extends Pet implements Talkable {
 
     /**
      * This method is inherited from the Talkable interface
-     * @return string indicating the name of the dog and whether it is friendly
+     * @return String indicating the name of the dog and whether it is friendly
      */
     @Override
     public String toString() {
